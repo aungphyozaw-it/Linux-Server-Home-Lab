@@ -146,25 +146,29 @@ The project documentation includes technical evidence such as:
 
 Examples of commands used throughout the project include:
 
-"ls" "cd" "pwd" "cp" "mv" "rm" "mkdir" "find"
+Update M02 SSH administration and hardening documentation
 
-"useradd" "usermod" "userdel" "groupadd" "groups" "id"
+Update M02 SSH administration and hardening documentation
 
-"chmod" "chown" "chgrp"
+`ls` `cd` `pwd` `cp` `mv` `rm` `mkdir` `find`
 
-"apt" "dpkg"
+`useradd` `usermod` `userdel` `groupadd` `groups` `id`
 
-"ip" "ping" "ss" "hostname" "curl"
+`chmod` `chown` `chgrp`
 
-"ssh" "scp"
+`apt` `dpkg`
 
-"systemctl" "journalctl"
+`ip` `ping` `ss` `hostname` `curl`
 
-"ps" "top" "free" "df" "du"
+`ssh` `scp`
 
-"cron" "crontab"
+`systemctl` `journalctl`
 
-"tar"
+`ps` `top` `free` `df` `du`
+
+`cron` `crontab`
+
+`tar`
 
 ## Skills Demonstrated
 
