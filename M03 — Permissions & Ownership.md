@@ -1,4 +1,4 @@
-# M03 — Permissions & Ownership
+# M03 - Permissions & Ownership
 
 ## Objective
 
