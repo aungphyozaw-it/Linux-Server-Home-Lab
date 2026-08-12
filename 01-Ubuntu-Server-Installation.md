@@ -100,8 +100,8 @@ Evidence for this module includes:
 - Ubuntu Server VM configuration
 - Virtual machine memory allocation
 - Virtual disk configuration
-- "free -h" output
-- "df -h" output
+- `free -h` output
+- `df -h` output
 - Network connectivity test results
 - NAT networking configuration
 - Bridged Adapter configuration
