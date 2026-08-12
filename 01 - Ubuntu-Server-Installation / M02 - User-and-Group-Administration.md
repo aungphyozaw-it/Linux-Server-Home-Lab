@@ -195,7 +195,6 @@ Evidence for this module includes:
 
 - How user and group information helps troubleshoot access-related issues.
 
-
 ## Module Status
 
 **M02 — COMPLETED**
