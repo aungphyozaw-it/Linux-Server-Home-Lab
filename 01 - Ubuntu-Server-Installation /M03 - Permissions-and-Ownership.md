@@ -185,7 +185,6 @@ Evidence for this module includes:
 
 - Why permissions and ownership should be checked when investigating access problems.
 
-
 ## Module Status
 
 **M03 — COMPLETED**
