@@ -1,4 +1,4 @@
-# M14 — Linux Security & SSH Hardening
+# M14 — Linux Security Fundamentals
 
 ## Objective
 
