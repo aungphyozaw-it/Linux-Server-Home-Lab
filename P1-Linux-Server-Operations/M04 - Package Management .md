@@ -201,4 +201,4 @@ Successfully practised Ubuntu package management using APT and learned the relat
  
 ## Module Status
  
-**M04 — COMPLETED**
+**M04 — COMPLETED** ✅
